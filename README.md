@@ -19,3 +19,14 @@ The IMU used is the BMI160. <br>
     - 804040
 - 1N5817 Diode (2x)
 - 180K Ohm resistor
+
+
+## PCB
+Included in this repo are the gerber files that can be uploaded at [JLCPCB](https://jlcpcb.com/)
+The source of this PCB can be found at https://oshwlab.com/lupinix/slimevr-hyperion-bmi160
+
+## Building
+The PCB is made for the above mentions components to be soldered on with the pin headers that are (almost always) included with those components.
+The TP4056 however has to be directly soldered to the PCB so there is no gap between PCB and the TP4056. What I like to do is lign up the holes of the TP4056 and the PCB and then throw in a short snipped off resistor lead, and then solder it from both sides. This way oyu can be sure there is electrical contact between the PCB and TP4056. <br>
+The Resistor and diodes can just be soldered like a regular troughhole component. <br>
+For the switch I reccomend to first solder everything else, put the PCB on the 3D printed tray, then push the switch in place and solder it.
