@@ -22,8 +22,8 @@ The IMU used is the BMI160. <br>
 
 
 ## PCB
-Included in this repo are the gerber files that can be uploaded at [JLCPCB](https://jlcpcb.com/)
-The source of this PCB can be found at https://oshwlab.com/lupinix/slimevr-hyperion-bmi160
+Included in this repo are the gerber files that can be uploaded at [JLCPCB](https://jlcpcb.com/) <br>
+The source of this PCB can be found at:  https://oshwlab.com/lupinix/slimevr-hyperion-bmi160
 
 ## Building
 The PCB is made for the above mentions components to be soldered on with the pin headers that are (almost always) included with those components.
