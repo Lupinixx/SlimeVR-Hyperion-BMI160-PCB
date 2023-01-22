@@ -1,6 +1,7 @@
 # Modified Hyperion case for SlimeVR with PCB for BMI160 IMU
 
 This is a modified version Hyperion case made to fit a custom made PCB that holds standard SlimeVR components and a BMI160 IMU. <br>
+Includes a modified lid with holes to allow you to see the LEDs on the PCB inside. <br>
 The original design of the case is made by Smeltie and can be found here: https://github.com/Smeltie/Hyperion
 The 804040 battery variant of the case is made by Discord user 'Tamate Momochi#9595'
 
