@@ -28,6 +28,6 @@ The source of this PCB can be found at:  https://oshwlab.com/lupinix/slimevr-hyp
 
 ## Building
 The PCB is made for the above mentions components to be soldered on with the pin headers that are (almost always) included with those components.
-The TP4056 however has to be directly soldered to the PCB so there is no gap between PCB and the TP4056. What I like to do is lign up the holes of the TP4056 and the PCB and then throw in a short snipped off resistor lead, and then solder it from both sides. This way oyu can be sure there is electrical contact between the PCB and TP4056. <br>
+The TP4056 however has to be directly soldered to the PCB so there is no gap between PCB and the TP4056. What I like to do is lign up the holes of the TP4056 and the PCB and then throw in a short snipped off resistor lead, and then solder it from both sides. This way you can be sure there is electrical contact between the PCB and TP4056. <br>
 The Resistor and diodes can just be soldered like a regular troughhole component. <br>
 For the switch I reccomend to first solder everything else, put the PCB on the 3D printed tray, then push the switch in place and solder it.
