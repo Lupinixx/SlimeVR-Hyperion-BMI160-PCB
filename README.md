@@ -1,3 +1,6 @@
+# Direct order from PCBWay (This does support me a bit!)
+https://www.pcbway.com/project/shareproject/SlimeVR_Hyperion_BMI160_PCB_ddd64fe3.html
+
 # Modified Hyperion case for SlimeVR with PCB for BMI160 IMU
 
 This is a modified version Hyperion case made to fit a custom made PCB that holds standard SlimeVR components and a BMI160 IMU. <br>
@@ -24,6 +27,7 @@ The IMU used is the BMI160. <br>
 
 ## PCB
 Included in this repo are the gerber files that can be uploaded at [JLCPCB](https://jlcpcb.com/) <br>
+Or you can directly order from PCBWay from here https://www.pcbway.com/project/shareproject/SlimeVR_Hyperion_BMI160_PCB_ddd64fe3.html
 The source of this PCB can be found at:  https://oshwlab.com/lupinix/slimevr-hyperion-bmi160
 
 ## Building
